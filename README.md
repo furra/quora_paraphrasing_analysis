@@ -1,4 +1,4 @@
-# quora_paraphrasing_analysis
+# Quora Paraphrasing Analysis
 
 Some notebooks that apply LSA and Doc2Vec to the quora questions dataset.
 
