@@ -7,3 +7,5 @@ The original csv file is [here](https://uwoca-my.sharepoint.com/:x:/g/personal/f
 The converted tsv (tab separator) is [here](https://uwoca-my.sharepoint.com/:u:/g/personal/furra_uwo_ca/EZ3c75E_4HhOjWNWSDMmdy0BHP-SYC5X-Meg2E-aqXZUmQ?e=JIYaom).
 
 The tsv file should be downloaded to 'dataset/' so the notebooks can read it (or download somewhere else and change the location in the notebook).
+
+The tsv file has some corrections to the original data. Some non-visible characters are removed and others are changed to a more ascii analogue, e.g., "´s" for "'s".
